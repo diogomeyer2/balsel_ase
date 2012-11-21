@@ -1,3 +1,10 @@
-This ms will be about ASE in bal sel gene
-Ho: ase rarer in balsel genes
+The main idea is to test if there is a deviation in the patterns of
+intraindividual expression between putatively selected (balancing) genes
+and a control set.
+
+The balsel loci will be surveyed for type of function displayed and also
+if the two alleles are "functional", since selection can favor loss of
+function variants, and in this case the balsel scenario makes a
+different prediction (advantage of monoallelic expression). This would
+in fact be a nice control.
 
