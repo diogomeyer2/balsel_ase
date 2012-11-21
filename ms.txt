@@ -8,3 +8,14 @@ function variants, and in this case the balsel scenario makes a
 different prediction (advantage of monoallelic expression). This would
 in fact be a nice control.
 
+Specific analysis.
+
+FOr balsel genes quantify degree of ASE
+Compare to genomewide ASE, with controls for:
+- GO category
+- paralogues (if available)
+
+For HLA it is likely to be really difficult to map the transcripts, due
+to the very high level of polymorphism. The way around this would be to
+use, rather than the reference genome, an in house assembly process,
+where the IMGT alleles provide the reference set.
